@@ -1,0 +1,17 @@
+{
+  "name": "petRO",
+  "short_name": "petRO",
+  "description": "petRO Front-End with Rev 3 Expressive Actions",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#090d18",
+  "theme_color": "#090d18",
+  "icons": [
+    {
+      "src": "https://fonts.gstatic.com/s/i/short-term/release/googlesymbols/robot/default/192px.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
